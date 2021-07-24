@@ -12,7 +12,7 @@ import java.util.logging.Logger;
  */
 public class mysql_bilgileri {
 
-    private static String servername = "mavikulubeliadam.xyz";
+    private static String servername = "example.xyz";
     private static String username = "dbamatortelsiz";
     private static String dbname  = "dbamatortelsiz";
     private static Integer portnumber  = 3306;
